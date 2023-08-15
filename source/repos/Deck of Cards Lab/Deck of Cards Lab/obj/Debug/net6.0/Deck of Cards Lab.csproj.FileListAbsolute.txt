@@ -1,0 +1,33 @@
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\bin\Debug\net6.0\appsettings.json
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\bin\Debug\net6.0\Deck of Cards Lab.staticwebassets.runtime.json
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\bin\Debug\net6.0\Deck of Cards Lab.exe
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\bin\Debug\net6.0\Deck of Cards Lab.deps.json
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\bin\Debug\net6.0\Deck of Cards Lab.runtimeconfig.json
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\bin\Debug\net6.0\Deck of Cards Lab.dll
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\bin\Debug\net6.0\Deck of Cards Lab.pdb
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net6.0\Deck of Cards Lab.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net6.0\Deck of Cards Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net6.0\Deck of Cards Lab.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net6.0\Deck of Cards Lab.AssemblyInfo.cs
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net6.0\Deck of Cards Lab.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net6.0\Deck of Cards Lab.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net6.0\Deck of Cards Lab.RazorAssemblyInfo.cache
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net6.0\Deck of Cards Lab.RazorAssemblyInfo.cs
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net6.0\staticwebassets\msbuild.Deck of Cards Lab.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net6.0\staticwebassets\msbuild.build.Deck of Cards Lab.props
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Deck of Cards Lab.props
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Deck of Cards Lab.props
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net6.0\scopedcss\bundle\Deck of Cards Lab.styles.css
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net6.0\scopedcss\projectbundle\Deck of Cards Lab.bundle.scp.css
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net6.0\Deck of Cards Lab.csproj.CopyComplete
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net6.0\Deck of Cards Lab.dll
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net6.0\refint\Deck of Cards Lab.dll
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net6.0\Deck of Cards Lab.pdb
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net6.0\Deck of Cards Lab.genruntimeconfig.cache
+C:\Users\maria\source\repos\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net6.0\ref\Deck of Cards Lab.dll
