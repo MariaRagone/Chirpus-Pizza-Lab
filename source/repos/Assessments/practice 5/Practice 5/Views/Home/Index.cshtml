@@ -1,0 +1,21 @@
+﻿@model List<Student>
+
+
+<ui class="nav-item">
+    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="AllStudents">All Students</a>
+</ui>
+<br />
+<br />
+<br />
+<br />
+
+
+<form asp-method="post" asp-action="Grades">
+
+    <p>First Name: <input type="text" name="firstName" /> </p>
+    <p>Last Name: <input type="text" name="lastName" /> </p>
+    <p>Percent Grade: <input type="number" name="percentGrade" /></p>
+
+    <p><input type="Submit" /> </p>
+
+</form>

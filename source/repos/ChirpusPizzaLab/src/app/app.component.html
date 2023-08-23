@@ -1,0 +1,13 @@
+<h1>Welcome to {{title}}</h1>
+
+
+<table>
+  <tr>
+  <th>Item</th>
+  <th>Category</th>
+  <th>Price</th>
+  </tr>
+  <tr *ngFor="let c of menu">
+  <td>{{c.name}}</td>
+  <td>{{c.category}}</td>
+  <td>{{c.price}}</td>

@@ -1,0 +1,186 @@
+﻿@model List<Student>
+@{
+    ViewData["Title"] = "Grade Calculator";
+}
+<h1>@ViewData["Title"]</h1>
+
+
+
+
+
+
+@*
+<div style="background-color #fec45d;"
+<p>Student Name: @Model.fir</p>
+<p>Percentage Grade: @Model.percentGrade</p>
+
+@{
+    if (Model.percentGrade >= 92)
+    {
+        Model.letterGrade = "A";
+            Model.GPA = Math.Round(4.0m, 2);
+    }
+    else if (Model.percentGrade >= 89)
+    {
+        Model.letterGrade = "A-";
+        Model.GPA = 3.9m;
+    }
+    else if (Model.percentGrade >= 88)
+    {
+        Model.letterGrade = "A-";
+        Model.GPA = 3.8m;
+    }
+    else if (Model.percentGrade >= 87)
+    {
+        Model.letterGrade = "A-";
+        Model.GPA = 3.7m;
+    }
+    else if (Model.percentGrade >= 86)
+    {
+        Model.letterGrade = "B+";
+        Model.GPA = 3.6m;
+    }
+    else if (Model.percentGrade >= 85)
+    {
+        Model.letterGrade = "B+";
+        Model.GPA = 3.5m;
+    }
+    else if (Model.percentGrade >= 84)
+    {
+        Model.letterGrade = "B+";
+        Model.GPA = 3.4m;
+    }
+    else if (Model.percentGrade >= 83)
+    {
+        Model.letterGrade = "B+";
+        Model.GPA = 3.3m;
+    }
+    else if (Model.percentGrade >= 82)
+    {
+        Model.letterGrade = "B";
+        Model.GPA = 3.2m;
+    }
+    else if (Model.percentGrade >= 81)
+    {
+        Model.letterGrade = "B";
+        Model.GPA = 3.1m;
+    }
+    else if (Model.percentGrade >= 80)
+    {
+        Model.letterGrade = "B";
+        Model.GPA = 3.0m;
+    }
+    else if (Model.percentGrade >= 79)
+    {
+        Model.letterGrade = "B-";
+        Model.GPA = 2.9m;
+    }
+    else if (Model.percentGrade >= 78)
+    {
+        Model.letterGrade = "B-";
+        Model.GPA = 2.8m;
+    }
+    else if (Model.percentGrade >= 77)
+    {
+        Model.letterGrade = "B-";
+        Model.GPA = 2.7m;
+    }
+    else if (Model.percentGrade >= 76)
+    {
+        Model.letterGrade = "C+";
+        Model.GPA = 2.6m;
+    }
+    else if (Model.percentGrade >= 75)
+    {
+        Model.letterGrade = "C+";
+        Model.GPA = 2.5m;
+    }
+    else if (Model.percentGrade >= 74)
+    {
+        Model.letterGrade = "C+";
+        Model.GPA = 2.4m;
+    }
+    else if (Model.percentGrade >= 73)
+    {
+        Model.letterGrade = "C+";
+        Model.GPA = 2.3m;
+    }
+    else if (Model.percentGrade >= 72)
+    {
+        Model.letterGrade = "C";
+        Model.GPA = 2.2m;
+    }
+    else if (Model.percentGrade >= 71)
+    {
+        Model.letterGrade = "C";
+        Model.GPA = 2.1m;
+    }
+    else if (Model.percentGrade >= 70)
+    {
+        Model.letterGrade = "C";
+        Model.GPA = 2.0m;
+    }
+    else if (Model.percentGrade >= 69)
+    {
+        Model.letterGrade = "C-";
+        Model.GPA = 1.9m;
+    }
+    else if (Model.percentGrade >= 68)
+    {
+        Model.letterGrade = "C-";
+        Model.GPA = 1.8m;
+    }
+    else if (Model.percentGrade >= 67)
+    {
+        Model.letterGrade = "C-";
+        Model.GPA = 1.7m;
+    }
+    else if (Model.percentGrade >= 66)
+    {
+
+        Model.letterGrade = "D+";
+        Model.GPA = 1.6m;
+    }
+    else if (Model.percentGrade >= 65)
+    {
+        Model.letterGrade = "D+";
+        Model.GPA = 1.5m;
+    }
+    else if (Model.percentGrade >= 64)
+    {
+        Model.letterGrade = "D+";
+        Model.GPA = 1.4m;
+    }
+    else if (Model.percentGrade >= 63)
+    {
+        Model.letterGrade = "D+";
+        Model.GPA = 1.3m;
+    }
+    else if (Model.percentGrade >= 62)
+    {
+        Model.letterGrade = "D";
+        Model.GPA = 1.2m;
+    }
+    else if (Model.percentGrade >= 61)
+    {
+        Model.letterGrade = "D";
+        Model.GPA = 1.1m;
+    }
+    else if (Model.percentGrade >= 59.5)
+    {
+        Model.letterGrade = "D";
+        Model.GPA = 1.0m;
+    }
+    else
+    {
+        Model.letterGrade = "F";
+        Model.GPA = 0.0m;
+    }
+
+
+
+}
+    <p> Letter Grade: @Model.letterGrade</p>
+    <p> GPA: @Model.GPA</p>
+    </div>
+*@

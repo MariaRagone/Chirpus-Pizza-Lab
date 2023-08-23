@@ -1,0 +1,12 @@
+﻿@model List<Student>
+    <div class="student-container"
+@{
+         foreach(Student s in Model)
+         {
+            <div class="column">
+                <p> @s.FirstName @s.LastName</p>
+                <p></p>
+            </div>
+
+        }
+    }
