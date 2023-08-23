@@ -47,37 +47,29 @@ export class AppComponent {
 // Create a method called getByCategory()
 // This should take in a string called Cat
 // This should return an array of MenuItem where Cat matches Category
-getByCategory(Cat:menuItem[]):string{
-  let newCategory = Cat[0];
-  Cat.forEach((c.menuItem) => {
+getByCategory(Cat:string):MenuItem[]{
+  let allItems: MenuItem[] = [];
+  this.menu.forEach((c) => {
     if(c.category == Cat){
-      newCard = c.category;
+      allItems.push(c);
     }
-    
   });
-  
-  return newCard;
-}
-function GetRarestName(allCards:Card[]):string{
-  //manual way
-  let rareCard:Card = allCards[0];
-  allCards.forEach((c:Card) => {
-      if(c.rarity > rareCard.rarity)
-     {rareCard = c;
-     }
-  });
-  return rareCard.name;
-
-
-// takes in a customer and gives back a message obout being a gold member
-getMemberMessage(c:Customer):string{
-  if(c.goldMember == true){
-    return "Is gold member!";
-  }
-  else{
-    return "Not gold member";
-  }
+  return allItems;
 }
 
-  
+
+getUniqueCategory():string[]{
+let result: string [] = [];
+  this.menu.forEach((c) => {
+    if(result.includes(c.category)==false)
+    {
+    result.push(c.category)
+    }
+  });
+  return result;
+}
+
+
+
+
 }

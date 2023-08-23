@@ -10,4 +10,43 @@
   <tr *ngFor="let c of menu">
   <td>{{c.name}}</td>
   <td>{{c.category}}</td>
-  <td>{{c.price}}</td>
+  <td>{{c.price | currency}}</td>
+  </tr>
+  </table>
+<br>
+<br>
+<h3>Using the methods</h3>
+<table *ngFor="let c of getUniqueCategory()">
+  <th>{{c}}</th>
+  <tr *ngFor="let i of getByCategory(c)">
+    <td>{{ i.name }}</td>
+    <td>{{ i.price | currency }}</td>
+  </tr>
+<!-- 
+  <h2>Sides</h2>
+<table>
+  <tr *ngFor="let i of getByCategory('Sides')">
+    <td>{{ i.name }}</td>
+    <td>{{ i.price | currency }}</td>
+  </tr>
+
+</table>
+
+<h2>Salads</h2>
+<table>
+  <tr *ngFor="let i of getByCategory('Salads')">
+    <td>{{ i.name }}</td>
+    <td>{{ i.price | currency }}</td>
+  </tr>
+</table>
+
+<h2>Desserts</h2>
+<table>
+  <tr *ngFor="let i of getByCategory('Dessert')">
+    <td>{{ i.name }}</td>
+    <td>{{ i.price | currency }}</td>
+  </tr>
+
+</table> -->
+
+
