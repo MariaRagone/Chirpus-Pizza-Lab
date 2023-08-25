@@ -1,0 +1,49 @@
+<div class="card">
+
+    <h4>To Do List</h4>
+    
+<p>Add a task:</p>
+Title 
+<br>
+<input type="text"[(ngModel)]="newTask.taskTitle" placeholder="Task Title"/>
+<!-- <p>
+    Description
+    <br>
+    <textarea cols="50" rows="10"[(ngModel)]="newTask.description" >
+    </textarea>
+</p>  -->
+<button (click)="addTask()">Add</button>
+
+
+
+<table>
+    <tr>
+        <th>Title</th>
+        <!-- <th>Description</th> -->
+        <th style="text-align: right;">Complete</th>
+    </tr>
+    <tr *ngFor="let t of allTasks">
+        <td>
+            {{t.taskTitle}} 
+        </td>
+        <!-- <td>
+            {{t.description}} 
+        </td> -->
+        <td style="text-align: right; padding-left: 200px;" >
+            {{t.complete}} 
+        </td>
+        <td><button *ngIf="t.complete ==false" (click)="removeTask(t)">Incomplete</button>
+            <button *ngIf="t.complete ==true" (click)="removeTask(t)">Done!</button>
+            <button (click)="removeTask(t)">x</button></td>
+    </tr>
+    
+</table>
+</div>
+
+<!-- <h3>Using the methods</h3>
+<table *ngFor="let c of getUniqueCategory()">
+  <th>{{c}}</th>
+  <tr *ngFor="let i of getByCategory(c)">
+    <td>{{ i.name }}</td>
+    <td>{{ i.price | currency }}</td>
+  </tr> --> 
