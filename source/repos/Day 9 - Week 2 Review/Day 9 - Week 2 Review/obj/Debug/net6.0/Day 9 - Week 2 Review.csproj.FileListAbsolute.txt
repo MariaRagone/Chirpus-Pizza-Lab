@@ -1,0 +1,15 @@
+C:\Users\maria\source\repos\Day 9 - Week 2 Review\Day 9 - Week 2 Review\bin\Debug\net6.0\Day 9 - Week 2 Review.exe
+C:\Users\maria\source\repos\Day 9 - Week 2 Review\Day 9 - Week 2 Review\bin\Debug\net6.0\Day 9 - Week 2 Review.deps.json
+C:\Users\maria\source\repos\Day 9 - Week 2 Review\Day 9 - Week 2 Review\bin\Debug\net6.0\Day 9 - Week 2 Review.runtimeconfig.json
+C:\Users\maria\source\repos\Day 9 - Week 2 Review\Day 9 - Week 2 Review\bin\Debug\net6.0\Day 9 - Week 2 Review.dll
+C:\Users\maria\source\repos\Day 9 - Week 2 Review\Day 9 - Week 2 Review\bin\Debug\net6.0\Day 9 - Week 2 Review.pdb
+C:\Users\maria\source\repos\Day 9 - Week 2 Review\Day 9 - Week 2 Review\obj\Debug\net6.0\Day 9 - Week 2 Review.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\Day 9 - Week 2 Review\Day 9 - Week 2 Review\obj\Debug\net6.0\Day 9 - Week 2 Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\Day 9 - Week 2 Review\Day 9 - Week 2 Review\obj\Debug\net6.0\Day 9 - Week 2 Review.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\Day 9 - Week 2 Review\Day 9 - Week 2 Review\obj\Debug\net6.0\Day 9 - Week 2 Review.AssemblyInfo.cs
+C:\Users\maria\source\repos\Day 9 - Week 2 Review\Day 9 - Week 2 Review\obj\Debug\net6.0\Day 9 - Week 2 Review.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Day 9 - Week 2 Review\Day 9 - Week 2 Review\obj\Debug\net6.0\Day 9 - Week 2 Review.dll
+C:\Users\maria\source\repos\Day 9 - Week 2 Review\Day 9 - Week 2 Review\obj\Debug\net6.0\refint\Day 9 - Week 2 Review.dll
+C:\Users\maria\source\repos\Day 9 - Week 2 Review\Day 9 - Week 2 Review\obj\Debug\net6.0\Day 9 - Week 2 Review.pdb
+C:\Users\maria\source\repos\Day 9 - Week 2 Review\Day 9 - Week 2 Review\obj\Debug\net6.0\Day 9 - Week 2 Review.genruntimeconfig.cache
+C:\Users\maria\source\repos\Day 9 - Week 2 Review\Day 9 - Week 2 Review\obj\Debug\net6.0\ref\Day 9 - Week 2 Review.dll
