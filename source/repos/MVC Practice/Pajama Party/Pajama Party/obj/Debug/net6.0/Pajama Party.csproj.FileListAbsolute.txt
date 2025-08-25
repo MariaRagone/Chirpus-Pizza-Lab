@@ -1,0 +1,15 @@
+C:\Users\maria\source\repos\MVC Practice\Pajama Party\Pajama Party\bin\Debug\net6.0\Pajama Party.exe
+C:\Users\maria\source\repos\MVC Practice\Pajama Party\Pajama Party\bin\Debug\net6.0\Pajama Party.deps.json
+C:\Users\maria\source\repos\MVC Practice\Pajama Party\Pajama Party\bin\Debug\net6.0\Pajama Party.runtimeconfig.json
+C:\Users\maria\source\repos\MVC Practice\Pajama Party\Pajama Party\bin\Debug\net6.0\Pajama Party.dll
+C:\Users\maria\source\repos\MVC Practice\Pajama Party\Pajama Party\bin\Debug\net6.0\Pajama Party.pdb
+C:\Users\maria\source\repos\MVC Practice\Pajama Party\Pajama Party\obj\Debug\net6.0\Pajama Party.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\MVC Practice\Pajama Party\Pajama Party\obj\Debug\net6.0\Pajama Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\MVC Practice\Pajama Party\Pajama Party\obj\Debug\net6.0\Pajama Party.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\MVC Practice\Pajama Party\Pajama Party\obj\Debug\net6.0\Pajama Party.AssemblyInfo.cs
+C:\Users\maria\source\repos\MVC Practice\Pajama Party\Pajama Party\obj\Debug\net6.0\Pajama Party.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\MVC Practice\Pajama Party\Pajama Party\obj\Debug\net6.0\Pajama Party.dll
+C:\Users\maria\source\repos\MVC Practice\Pajama Party\Pajama Party\obj\Debug\net6.0\refint\Pajama Party.dll
+C:\Users\maria\source\repos\MVC Practice\Pajama Party\Pajama Party\obj\Debug\net6.0\Pajama Party.pdb
+C:\Users\maria\source\repos\MVC Practice\Pajama Party\Pajama Party\obj\Debug\net6.0\Pajama Party.genruntimeconfig.cache
+C:\Users\maria\source\repos\MVC Practice\Pajama Party\Pajama Party\obj\Debug\net6.0\ref\Pajama Party.dll
