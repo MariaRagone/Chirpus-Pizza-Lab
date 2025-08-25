@@ -1,0 +1,10 @@
+// make logs readable/creatable by the owner only; immutable
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /queries/{doc} {
+      allow read, create: if request.auth != null && request.resource.data.userId == request.auth.uid;
+      allow update, delete: if false;
+    }
+  }
+}
