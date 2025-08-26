@@ -1,7 +1,7 @@
+// src/lib/firebase.ts
 import { initializeApp, getApps, getApp } from 'firebase/app'
 import { getAuth, GoogleAuthProvider } from 'firebase/auth'
 import { getFirestore } from 'firebase/firestore'
-export const db = getFirestore()
 
 const firebaseConfig = {
   apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
@@ -12,9 +12,12 @@ const firebaseConfig = {
   appId: import.meta.env.VITE_FIREBASE_APP_ID,
 }
 
+// Create (or reuse) the default app
 const app = getApps().length ? getApp() : initializeApp(firebaseConfig)
-export const auth = getAuth(app)
 
-// Optional: export a preconfigured provider (nice for reuse/fallbacks)
+export const auth = getAuth(app)
 export const googleProvider = new GoogleAuthProvider()
 googleProvider.setCustomParameters({ prompt: 'select_account' })
+
+// IMPORTANT: pass the app explicitly (don’t call getFirestore() with no args)
+export const db = getFirestore(app)

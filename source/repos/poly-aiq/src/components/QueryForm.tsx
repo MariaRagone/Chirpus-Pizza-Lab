@@ -1,7 +1,10 @@
 import { useState } from 'react'
-import { aggregateQuery, type ProviderResponse } from '../lib/api'
+import { type ProviderResponse, aggregateQuery } from '../lib/api'
 
-export default function QueryForm({ onResults, onLoading }: {
+export default function QueryForm({
+  onResults,
+  onLoading,
+}: {
   onResults: (r: ProviderResponse[]) => void
   onLoading: (b: boolean) => void
 }) {
